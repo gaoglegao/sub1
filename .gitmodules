@@ -4,6 +4,3 @@
 [submodule "sub3"]
 	path = sub3
 	url = git@github.com:gaoglegao/sub3.git
-[submodule "ajfaf"]
-	path = ajfaf
-	url = git@github.com:gaoglegao/ajfaf.git
